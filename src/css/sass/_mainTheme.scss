@@ -1,0 +1,11 @@
+@import './themes/themeVar';
+
+.light {
+  @import './themes/lightThemeVal';
+  @import './container/homeTheme';
+}
+
+.dark {
+  @import './themes/darkThemeVal';
+  @import './container/homeTheme';
+}

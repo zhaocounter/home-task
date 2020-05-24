@@ -1,0 +1,2 @@
+export const UPDATE_THEME = "UPDATE_THEME"
+export type UPDATE_THEME_TYPE = typeof UPDATE_THEME

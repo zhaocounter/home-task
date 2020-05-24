@@ -1,0 +1,38 @@
+.home {
+  .page {
+    .header {
+      background-color: $background-color-0;
+    }
+
+    .content {
+      .content-left {
+        .content-aside {
+          .top-part {
+            background-color: $background-color-1;
+          }
+
+          .bottom-part {
+            background-color: $background-color-2;
+          }
+        }
+
+        .content-main {
+          background-color: $background-color-3;
+        }
+      }
+
+      .content-right {
+        background-color: $background-color-4;
+      }
+    }
+
+    .footer {
+      background-color: $background-color-5;
+
+      .footer-button {
+        color: $text-color-0;
+        background-image: $background-image-0;
+      }
+    }
+  }
+}
